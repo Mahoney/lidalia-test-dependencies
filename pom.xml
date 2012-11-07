@@ -16,6 +16,7 @@
       <artifactId>standard-test-dependencies</artifactId>
       <version>${project.parent.version}</version>
       <type>pom</type>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>uk.org.lidalia</groupId>

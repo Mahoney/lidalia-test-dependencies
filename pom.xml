@@ -3,7 +3,7 @@
   <parent>
     <groupId>uk.org.lidalia</groupId>
     <artifactId>parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </parent>
 
   <artifactId>lidalia-test-dependencies</artifactId>
